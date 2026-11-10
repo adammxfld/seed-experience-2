@@ -1,6 +1,6 @@
 # Adam's notes
 
-My app is available at this mess of letters [https://seed-jequoxnqe-adams-projects-4517da86.vercel.app/](https://seed-jequoxnqe-adams-projects-4517da86.vercel.app/).
+My app is available here: [https://seed-2-topaz.vercel.app/](https://seed-2-topaz.vercel.app/).
 
 ## What's changed since last time...
 
